@@ -12,14 +12,14 @@ function Education() {
             </div>
             <div className="insdu">
                 <h2 className="intName">P.A.C.R.Polytechnic College</h2>
-                <h3 className="course">Diploma In Maechanical Engineering</h3>
+                <h3 className="course">Diploma In Mechanical Engineering</h3>
                 <h3 classname="depat"> Mechanical Engineering</h3>
                 <h3 className="time">2010 - 2012</h3>
             </div>
              <div className="insdu">
                 <h2 className="intName">P.A.C.M High School</h2>
                 <h3 className="course">12th Standard</h3>
-                <h3 className="time">2011 - 2012</h3>
+                <h3 className="time">2008 - 2010</h3>
             </div>
 
         </div>
