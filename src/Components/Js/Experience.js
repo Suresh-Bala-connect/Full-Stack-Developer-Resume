@@ -8,24 +8,52 @@ function Experience() {
                 <div className="web">
                     <h2>Full Stack Developer</h2>
                     <h2>Projects</h2>
-                    <p>Library Management System (MERN Stack)</p>
+                    {/* Project 1 */}
+                    <p><strong>Product Warranty Management System (React, Node.js, MongoDB)</strong></p>
+                    <ul>
+                        <li>- User can add and manage product warranty details</li>
+                        <li>- Warranty expiry tracking with active & expired status</li>
+                        <li>- Secure authentication using JWT</li>
+                        <li>- MongoDB schemas for Users and Products</li>
+                        <li>- <a href="https://product-warranty-db.onrender.com" target="_blank" rel="noreferrer">Live Demo</a></li>
+                    </ul>
+                    {/* Project 2 */}
+                    <p><strong>E-Commerce Application (React)</strong></p>
+                    <ul>
+                        <li>- Product listing with category-based filtering</li>
+                        <li>- Add to cart and remove from cart functionality</li>
+                        <li>- State management using React Hooks</li>
+                        <li>- Responsive UI for mobile and desktop</li>
+                        <li>- <a href="https://e-comm-product.onrender.com" target="_blank" rel="noreferrer">Live Demo</a></li>
+                    </ul>
+                    {/* Project 3 */}
+                    <p><strong>Library Management System (MERN Stack)</strong></p>
                     <ul>
                         <li>- Admin can add, update, delete books</li>
                         <li>- Borrower management with due-date tracking</li>
                         <li> - MongoDB schemas for Books, Categories, Borrowers</li>
                         <li>- JWT authentication</li>
+                        <li>- <a href="https://library-model.onrender.com" target="_blank" rel="noreferrer">Live Demo</a></li>
                     </ul>
-                    <p>ATM Web Application (React + Node)</p>
+                    {/* Project 4 */}
+                    <p><strong>ATM Web Application (React + Node)</strong></p>
                     <ul>
                         <li>- Deposit/Withdraw/PIN verification</li>
                         <li>- Transaction history tracking</li>
                         <li>- Error handling for balance conditions</li>
+                        <li>- <a href="https://atm-fucnction.onrender.com/" target="_blank" rel="noreferrer">Live Demo</a></li>
                     </ul>
-                    <p>Course & Student Management System</p>
+                    {/* Project 5 */}
+                    <p><strong>Simple To-Do List Application (MERN Stack)</strong></p>
                     <ul>
-                        <li>- Add Course/Staff/Subject with CRUD operations</li>
-                        <li>- Populate used for subject & staff dropdown</li>
+                        <li>- User can add, edit, and delete tasks</li>
+                        <li>- Task status management (completed / pending)</li>
+                        <li>- Data stored and managed using MongoDB</li>
+                        <li>- REST API built with Node.js and Express</li>
+                        <li>- React frontend with state management using Hooks</li>
+                        <li>- <a href="https://simple-todolist-9x0m.onrender.com/" target="_blank" rel="noreferrer">Live Demo</a></li>
                     </ul>
+
                 </div>
                 <div class="companyName">
                     <h3>Swachh Bharat Scheme - Bio Mining Project</h3>
